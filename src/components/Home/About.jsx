@@ -29,7 +29,7 @@ const About = () => {
                 <br />
                 <br />
                   As a
-                  <b className="yellow"> Web</b>developer,  
+                  <b className="yellow"> Web </b>developer,  
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in

@@ -7,6 +7,7 @@ import project from "../assets/projects/project.jpeg";
 import lift from "../assets/projects/lift.png";
 import krypto from "../assets/projects/krypto.png";
 import kickstart from "../assets/projects/kickstart.png";
+import skincare from "../assets/projects/skincare.png";
 
 const Projects = () => {
   return (
@@ -54,7 +55,7 @@ const Projects = () => {
             <ProjectCard
               imgPath={pg}
               isBlog={false}
-              title="Wordpress Personalized Theme"
+              title="Scratched Wordpress Theme"
               description="Seamlessly integrate custom fields, galleries, and interactive elements to engage your audience and drive conversions. Transform your website into a powerful marketing tool with our personalized theme, designed to meet the specific needs of your business."
          
             />
@@ -71,10 +72,10 @@ const Projects = () => {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={kickstart}
+              imgPath={skincare}
               isBlog={false}
-              title="Figma Mobile App"
-              description="With a clean and modern interface, our app offers a seamless user experience tailored to your needs. From intuitive gestures to stunning visual elements, every detail is crafted to enhance your productivity and enjoyment."
+              title="Skin Care Shopping App"
+              description="This skincare app offers a seamless user experience tailored to your skincare needs. From intuitive navigation to stunning visuals, every detail is designed to help you achieve healthier, glowing skin."
             />
           </Col>
         </Row>
