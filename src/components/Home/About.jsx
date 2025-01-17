@@ -22,10 +22,10 @@ const About = () => {
                 </h1>
                 <p className="home-about-body">
                  Hi, my name is <span className="yellow">Melisa Kololli </span>
-                 and I'm from <span className="yellow"> Suhareke, Kosovo.</span>
+                 and I'm from <span className="yellow"> Kosova.</span>
                 <br />
                 <br />
-                My current academic pursuit is a Bachelor's degree in Computer Science and Engineering at UBT - Higher Education Institution.
+                My current academic pursuit is Bachelor's degree in Computer Science and Engineering at UBT - Higher Education Institution.
                 <br />
                 <br />
                   As a
@@ -34,12 +34,12 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in frameworks such as React JS and Angular.
+                    as well as have knowledge in frameworks such as React.js and Vue.js.
                 
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">PHP, Wordpress,</b> and
+                  with <b className="yellow">React.js, PHP, Wordpress,</b> and
                   <i>
                     <b className="yellow">
                       {" "}
@@ -48,7 +48,7 @@ const About = () => {
                   </i>
                   &nbsp; like
                   <i>
-                    <b className="yellow"> Tailwind CSS and SASS.</b>
+                    <b className="yellow">Bootstrap, Tailwind CSS and SASS.</b>
                   </i>
                   <br />
                   <br />
